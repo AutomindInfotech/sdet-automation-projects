@@ -1,8 +1,15 @@
 <p align="center">
-  <img src="https://automindinfotech.com/newsite2/assets/images/logo.png" width="180" alt="Automind Infotech"/>
+  <img src="https://raw.githubusercontent.com/<ORG_NAME>/.github/main/assets/automind-logo.png"
+       alt="Automind Infotech Private Ltd"
+       width="220"/>
 </p>
 
-<h1 align="center">Automind Infotech</h1>
+<h1 align="center">Automind Infotech Private Ltd</h1>
+
+<p align="center">
+  <strong>Engineering Intelligent Digital Solutions</strong>
+</p>
+
 
 <p align="center">
   <strong>Engineering Intelligent Digital Solutions</strong>
