@@ -103,14 +103,10 @@ Some repositories are **private** and accessible to authorized collaborators onl
 
 ---
 
-## 📊 Organization GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AUTOMIND_GITHUB_ORG&show_icons=true&hide_title=true"/>
+  <img src="https://img.shields.io/badge/Public_Repos-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Quality_Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-Enabled-orange?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUTOMIND_GITHUB_ORG&layout=compact"/>
-</p>
-
-🔧 Replace:
